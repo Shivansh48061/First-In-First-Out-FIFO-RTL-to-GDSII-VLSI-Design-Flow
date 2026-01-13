@@ -235,5 +235,5 @@ set_load 0.05 [get_ports {empty full}]
 set_false_path -from [get_ports rst_n]
 
 ## Author
-Shivansh Mohan
+Shivansh Mohan ,
 B.Tech Electronics and Communication Engineering
